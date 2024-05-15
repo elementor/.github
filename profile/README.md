@@ -1,4 +1,4 @@
-# .github
+# Elementor
 
 ![screenshot](https://raw.githubusercontent.com/elementor/.github/master/profile/cover.png)
 
