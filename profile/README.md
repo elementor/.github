@@ -1,6 +1,6 @@
 # .github
 
-![screenshot](https://raw.githubusercontent.com/elementor/.github/main/profile/cover.png)
+![screenshot](https://raw.githubusercontent.com/elementor/.github/master/profile/cover.png)
 
 [Elementor](https://elementor.com)’s R&D department is where big ideas shape the digital landscape and make a difference for Web Creators worldwide.
 
